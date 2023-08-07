@@ -24,6 +24,8 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
  ## 🏭 IoT in Industry 4.0
 
+ #### 🕹
+
 
 
 
