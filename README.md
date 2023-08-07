@@ -15,13 +15,11 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/Fundamentals-of-IoT/assets/113218619/1c9b2d34-a3e4-4e17-93fc-6d076846a785"/> 
-
-#### 🥇 Fundamentals of IoT Score Test
+####🥇 Fundamentals of IoT Score Test
 
 [Score Test_Fundamentals of IoT_Faculdade Impacta.pdf](https://github.com/FabianaCampanari/Fundamentals-of-IoT/files/12271857/Score.Test_Fundamentals.of.IoT_Faculdade.Impacta.pdf)
 
 
-<p align="center">
-<img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/files/12271857/Score.Test_Fundamentals.of.IoT_Faculdade.Impacta.pdf"/>
+
 
 
