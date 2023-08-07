@@ -40,6 +40,8 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 #
 
+⚖︎ This project is licensed under the MIT License.
+
 
 
 
