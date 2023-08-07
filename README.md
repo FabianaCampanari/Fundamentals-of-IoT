@@ -24,7 +24,7 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
  ## 🏭 IoT in Industry 4.0
 
- #### 🕹
+ #### 🕹 Self-Regulation of Operation and Production Flow - A Scenario where Equipment Communicate, Understand Each Other and Self-Regulate. 
 
 
 
