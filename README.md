@@ -11,4 +11,4 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 ## 👩‍🎓 Fundamentals of IoT Certificate and My Passing Grade on the Exam.
 
-#### 🏆 
+#### 🏆 Fundamentals of IoT Certificate 
