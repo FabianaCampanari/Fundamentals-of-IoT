@@ -21,5 +21,4 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 <p align="center">
 <img src="
 
-[Score Test_Fundamentals of IoT_Faculdade Impacta.pdf](https://github.com/FabianaCampanari/Fundamentals-of-IoT/files/12271838/Score.Test_Fundamentals.of.IoT_Faculdade.Impacta.pdf)
 
