@@ -51,6 +51,9 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 #### <p align="center">  🖥 Simplified IoT Architecture Flowchar
 
+<p align="center">
+<img src="
+
 
 
 
