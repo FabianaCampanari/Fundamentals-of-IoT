@@ -59,10 +59,10 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 ## ☁️ Main IoT Platforms - Brokers
 
 <p align="center">
-<img src="
+<img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/16202c71-79d5-4c2f-844f-9e775337e0c3"/>
 
 
-![4-Principais Plataformas de IoT - Brokers](https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/16202c71-79d5-4c2f-844f-9e775337e0c3)
+![4-Principais Plataformas de IoT - Brokers]()
 
 
 
