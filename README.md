@@ -42,10 +42,10 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 #### <p align="center">  👥 Publish-Subscribe Model
 
 <p align="center">
-<img src="
+<img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/947ce8f8-0c50-4513-8fa5-07b327ffd74d" />
 
 
-![2a-Protocolo MQTT_Modelo de Publicação e Assinatura](https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/947ce8f8-0c50-4513-8fa5-07b327ffd74d)
+![2a-Protocolo MQTT_Modelo de Publicação e Assinatura]()
 
 
 
