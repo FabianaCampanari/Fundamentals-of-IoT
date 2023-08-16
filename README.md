@@ -33,6 +33,8 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 ## ⚙️ MQTT Communication Protocol 
 
+#### <p align="center"> 👥 Publish-Subscribe Model
+
 <p align="center">
 <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/16571fec-dbb1-4f90-86b8-57e7c1070b1d"/> 
 
