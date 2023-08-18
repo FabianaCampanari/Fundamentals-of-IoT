@@ -72,6 +72,8 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 ## 🔐 IoT Security Control
 
+<p align="center">
+
 
 
 
