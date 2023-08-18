@@ -68,7 +68,7 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 <p align="center">
 <img src=
 
-![6-Edge Computing - Potencializa Rede Local e Entrega ao Cloud apenas o q é essencial](https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/901b2ff3-dc91-444e-aac9-87bcac8dcdae)
+https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/901b2ff3-dc91-444e-aac9-87bcac8dcdae
 
 
 
