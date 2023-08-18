@@ -65,7 +65,7 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 ## ⛈ Edge Computing  - Enhances Local Network and Delivers Only Essential Data to the Cloud
 
-
+<p align="center">
 
 
 
