@@ -86,7 +86,7 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
  <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/d8713287-3a86-460e-9291-3ab0f5b4fff4"/>
 
 
- <p align="center">  🔌 Quantity of new devices connected per second
+#### <p align="center">  🔌 Quantity of new devices connected per second
 
 
 
