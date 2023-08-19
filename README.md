@@ -52,19 +52,24 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
 #
 
+
 ## ☁️ Main IoT Platforms - Brokers
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/16202c71-79d5-4c2f-844f-9e775337e0c3"/>
 
+
 #
+
 
 ## ⛈ Edge Computing  - Enhances Local Network and Delivers Only Essential Data to the Cloud
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/901b2ff3-dc91-444e-aac9-87bcac8dcdae" /> 
 
+
 #
+
 
 ## 🔐 IoT Security Control
 
