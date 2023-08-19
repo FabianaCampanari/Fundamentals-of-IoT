@@ -38,16 +38,12 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 <p align="center">
 <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/16571fec-dbb1-4f90-86b8-57e7c1070b1d"/> 
 
-
 #### <p align="center">  👥 Publish-Subscribe Model
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/947ce8f8-0c50-4513-8fa5-07b327ffd74d" />
 
 #
-
-
-
 
 #### <p align="center">  🖥 Simplified IoT Architecture Flowchar
 
@@ -79,7 +75,7 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
 
  ## 🌍 Current IoT Scenario 
 
-
+🌐 Connectivity 
 
 
 
