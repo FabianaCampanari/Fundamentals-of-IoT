@@ -83,9 +83,8 @@ In conclusion, IoT is a game-changer in the world of technology, with the potent
  <p align="center"> 🌐 Connectivity
 
  <p align="center">
- <img src=""/>
+ <img src="https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/d8713287-3a86-460e-9291-3ab0f5b4fff4"/>
 
-https://github.com/FabianaCampanari/Fundamentals-of-IoT/assets/113218619/d8713287-3a86-460e-9291-3ab0f5b4fff4
 
 
 
